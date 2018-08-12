@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//imagecluster/feature_interface.py=utf-8
+encoding//imagecluster/grow.py=utf-8
+encoding//imagecluster/pattern.py=utf-8
+encoding//imagecluster/shape.py=utf-8
+encoding//imagesim/app.py=UTF-8
+encoding//imagesim/histogram.py=UTF-8
+encoding/histsimilar.py=utf-8
+encoding/imagesim=UTF-8
+encoding/test_image_similarity.py=utf-8
+encoding/testngram.py=UTF-8
